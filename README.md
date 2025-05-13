@@ -20,10 +20,10 @@ Hosted on Netlify
 Installation
 To run the project locally:
 
-Clone the repository:git clone https://github.com/0xcyberninja-git/Govt.-Job-Portal.git
+Clone the repository: git clone https://github.com/0xcyberninja-git/Govt.-Job-Portal.git
 
 
-Navigate to the project folder:cd govt-job-portal
+Navigate to the project folder: cd govt-jobs-portal
 
 
 Open index.html in a browser or use a local server (e.g., with npx serve or VS Code Live Server).
@@ -46,4 +46,4 @@ Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or feedback, reach out via your-email@example.com or open an issue on GitHub.
+For questions or feedback, reach out via pratiekbhivgade@gmail.com or open an issue on GitHub.
